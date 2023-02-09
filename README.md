@@ -6,26 +6,6 @@
 This is a back end application for an E-Commerce company using a mySQL database.
 It has the purpose of viewing, adding, updating and deleting Categories, Products, and Tags for the products.
 
-## Acceptance Criteria
-
-```md
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete data in my database
-```
-
 ## Installation
 Requires: MySQL, sequelize and DotENV
 
@@ -46,3 +26,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Features
 This application has features to view, add, update, and delete, categories, products, and tags within a database.
+
+## Contact me 
+* If you have any questions, comments, concerns please contact me at 
+* rktvpr@gmail.com
